@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "My lab setup for ex423"
+date:   2013-08-26 11:30:05
+categories: ex423
+---
+
+My simple lab setup for Red Hat Certificate of Expertise in Directory Services and Authentication Exam (EX423). This lab is not authorized by Red Hat. If You want professional help with preparing to this exam please visit this site - [Red Hat training][rhtrain] or polish Red Hat certification center [Osec.pl][osec]
+
+
+All systems are kvm virtual machines with 1024 MB RAM.
+{% highlight bash %}
+Directory Servers:
+  * ds1.example.com - 10.5.0.1
+  * ds2.example.com - 10.5.0.2
+{% endhighlight %}
+
+[rhtrain]: http://www.redhat.com/training/ways/
+[osec]: http://osec.pl/szkolenia/redhat/rhcds/ex423
