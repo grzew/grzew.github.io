@@ -17,6 +17,3 @@ showinnav: true
     {% endfor %}
   </ul>
 </div>
-
-{% assign selectedcategory = site.categories.ex423 %}
-{% include categorycontents %}
