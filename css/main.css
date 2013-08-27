@@ -29,6 +29,10 @@ a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
+div.table {border: 1px solid black; display: table; }
+div.tr {border: 1px solid black; display: table-row; }
+div.td {border: 1px solid black; display: table-cell; }
+
 /*****************************************************************************/
 /*
 /* Home
