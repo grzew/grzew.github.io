@@ -12,8 +12,7 @@ showinnav: true
    <a href="http://www.redhat.com/training/courses/ex423/examobjective">exam objective</a>
   </p>
   <ul class="posts">
-    {% for post in site.ex423.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+   {% assign selectedcategory = site.categories.ex423 %}
+   {% include categorycontents %}
   </ul>
 </div>
