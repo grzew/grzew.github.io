@@ -2,7 +2,7 @@
 layout: categorycontents
 title: ex423
 categories: ['ex423']
-showinnav: true
+showinnav: false
 ---
 
 <div id="home">

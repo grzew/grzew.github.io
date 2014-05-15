@@ -12,7 +12,7 @@ title: Grzegorz Wieczorek
           {% endif %}
         {% endif %}
       {% endfor %}
-
+  <br />
   <h1>Last posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
