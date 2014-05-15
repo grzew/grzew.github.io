@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My road to RHCA - Grzegorz Wieczorek
+title: Grzegorz Wieczorek
 ---
 
 <div id="home">
