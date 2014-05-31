@@ -19,4 +19,11 @@ title: Grzegorz Wieczorek
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+ <h1>Public speaking</h1>
+   <ul>
+    <li>Heartbleed and Wifi, Computing in Science and Technology
+   <a href="http://www.slideshare.net/grzew/heartbleed-i-wifi-smerek-31-v-2014">[presentation]</a>
+    </li>
+   </ul>
 </div>
