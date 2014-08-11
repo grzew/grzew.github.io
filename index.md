@@ -22,8 +22,11 @@ title: Grzegorz Wieczorek
 
  <h1>Public speaking</h1>
    <ul>
+    <li>Visual Cryptography and reverse Turing test, Avangarda 9, Warsaw University of Technology (08.08.2014)
+     <a href="#">[presentation]</a>
+    </li>
     <li>Heartbleed and Wifi, Computing in Science and Technology
-   <a href="http://www.slideshare.net/grzew/heartbleed-i-wifi-smerek-31-v-2014">[presentation]</a>
+     <a href="http://www.slideshare.net/grzew/heartbleed-i-wifi-smerek-31-v-2014">[presentation]</a>
     </li>
    </ul>
 </div>
